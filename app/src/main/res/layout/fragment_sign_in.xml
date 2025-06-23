@@ -19,6 +19,8 @@
             >
 
 
+
+
             <com.airbnb.lottie.LottieAnimationView
                 android:layout_width="416.00dp"
                 android:layout_height="390.00dp"
@@ -48,7 +50,7 @@
                 android:layout_gravity="center"
                 android:textColor="@color/black"
                 android:layout_marginTop="13dp"
-                android:text="India's original grocery app"
+                android:text="India's original grocery app: TurboMart"
                 android:textStyle="bold"
                 android:textSize="22.10sp"/>
             <TextView
