@@ -24,9 +24,7 @@ class AdminMainActivity : AppCompatActivity() {
         window?.apply {
             val statusBarColors = ContextCompat.getColor(context,R.color.diyaFlame)
             statusBarColor = statusBarColors
-            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
-                decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR
-            }
+            decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR
         }
     }
 

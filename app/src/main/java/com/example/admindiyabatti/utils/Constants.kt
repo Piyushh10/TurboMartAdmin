@@ -89,7 +89,7 @@ object Constants {
         )
 
     val allProductType = arrayOf(
-        "Holi diya",
+        "Milk",
         "Diwali diya",
         "Holi diya",
         "Diwali diya",
