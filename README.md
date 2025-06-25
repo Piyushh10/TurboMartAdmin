@@ -1,7 +1,5 @@
 # TurboMart Admin
 
-![TurboMart Admin Banner](screenshots/banner.png)
-
 ## Overview
 TurboMart Admin is a powerful Android application designed for administrators to manage an online grocery and essentials store. The app provides a seamless interface for adding, editing, and managing products, categories, and orders, all in real-time using Firebase as the backend. It is inspired by modern e-commerce admin panels and is built to be fast, intuitive, and secure.
 
@@ -26,23 +24,14 @@ TurboMart Admin is a powerful Android application designed for administrators to
 ## Screenshots
 Below are some screenshots of the TurboMart Admin app in action:
 
-| Login | Dashboard | Add Product | Orders | Edit Product | Notifications | Categories |
-|-------|-----------|-------------|--------|--------------|---------------|------------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Add Product](screenshots/add_product.png) | ![Orders](screenshots/orders.png) | ![Edit Product](screenshots/edit_product.png) | ![Notifications](screenshots/notifications.png) | ![Categories](screenshots/categories.png) |
+<img src="screenshots/tma3.jpg" alt="Screenshot 1" width="250" /> <img src="screenshots/tma7.jpg" alt="Screenshot 2" width="250" />
+<img src="screenshots/tma1.jpg" alt="Screenshot 3" width="250" />
+<br/>
+<img src="screenshots/tma4.jpg" alt="Screenshot 4" width="250" />
+<img src="screenshots/tma5.jpg" alt="Screenshot 5" width="250" />
+<img src="screenshots/tma6.jpg" alt="Screenshot 6" width="250" />
 
 > _Replace these images with your actual screenshots in the `screenshots` folder._
-
-## Getting Started
-1. **Clone the repository**
-   ```bash
-   git clone <your-repo-link>
-   ```
-2. **Open in Android Studio**
-3. **Configure Firebase**
-   - Add your `google-services.json` in the `app/` directory.
-4. **Build & Run**
-   - Connect your device or start an emulator.
-   - Click `Run` in Android Studio.
 
 ## Folder Structure
 ```
@@ -59,8 +48,6 @@ TurboMartAdmin/
 └── ...
 ```
 
-## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 [MIT](LICENSE)
